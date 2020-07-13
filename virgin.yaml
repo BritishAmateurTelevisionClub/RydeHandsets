@@ -1,0 +1,27 @@
+---
+name: Virgin Media
+driver: rc-5
+buttons:
+    POWER:  0xa0c
+    UP:     0xa50
+    DOWN:   0xa51
+    LEFT:   0xa55
+    RIGHT:  0xa56
+    SELECT: 0xa57
+    BACK:   0xa28
+    MENU:   0xa2f
+    MUTE:   0xa46
+    VOL+:   0xa10
+    VOL-:   0xa11
+    CHAN+:  0xa20
+    CHAN-:  0xa21
+    ZERO:   0xa00
+    ONE:    0xa01
+    TWO:    0xa02
+    THREE:  0xa03
+    FOUR:   0xa04
+    FIVE:   0xa05
+    SIX:    0xa06
+    SEVEN:  0xa07
+    EIGHT:  0xa08
+    NINE:   0xa09
