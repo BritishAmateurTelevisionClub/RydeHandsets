@@ -1,0 +1,23 @@
+---
+name: HD DVB-T2-S2 STB
+driver: nec
+buttons:
+    POWER:  0x101
+    UP:     0x117
+    DOWN:   0x11a
+    LEFT:   0x142
+    RIGHT:  0x141
+    SELECT: 0x115
+    BACK:   0x116
+    MENU:   0x15b
+    ZERO:   0x113
+    ONE:    0x100
+    TWO:    0x107
+    THREE:  0x106
+    FOUR:   0x104
+    FIVE:   0x10b
+    SIX:    0x10a
+    SEVEN:  0x108
+    EIGHT:  0x10f
+    NINE:   0x10e
+

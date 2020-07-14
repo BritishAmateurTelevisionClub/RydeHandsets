@@ -1,0 +1,33 @@
+---
+name: LG 42 TV
+driver: nec
+buttons:
+    repeatFirst: 200
+    repeatDelay: 100
+    repeatReset: 400
+    handsets:
+    POWER:  0x408
+    UP:     0x440
+    DOWN:   0x441
+    LEFT:   0x407
+    RIGHT:  0x406
+    SELECT: 0x444
+    BACK:   0x428
+    BACK:   0x45b
+    MENU:   0x443
+    ZERO:   0x410
+    ONE:    0x411
+    TWO:    0x412
+    THREE:  0x413
+    FOUR:   0x414
+    FIVE:   0x415
+    SIX:    0x416
+    SEVEN:  0x417
+    EIGHT:  0x418
+    NINE:   0x419
+    MUTE:   0x409
+    VOLUP:  0x402
+    VOLDN:  0x403
+    CHUP:   0x400
+    CHDN:   0x401
+

@@ -1,0 +1,24 @@
+---
+name: Hauppaugge MVP
+driver: rc-5
+buttons:
+    POWER:  0x1f3d
+    UP:     0x1f20
+    DOWN:   0x1f21
+    LEFT:   0x1f11
+    RIGHT:  0x1f10
+    SELECT: 0x1f25
+    BACK:   0x1f1f
+    MENU:   0x1f0d
+    ZERO:   0x1f00
+    ONE:    0x1f01
+    TWO:    0x1f02
+    THREE:  0x1f03
+    FOUR:   0x1f04
+    FIVE:   0x1f05
+    SIX:    0x1f06
+    SEVEN:  0x1f07
+    EIGHT:  0x1f08
+    NINE:   0x1f09
+    MUTE:   0x1f0f
+

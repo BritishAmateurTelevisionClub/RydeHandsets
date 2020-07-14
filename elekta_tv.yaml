@@ -1,0 +1,28 @@
+---
+name: Elekta Bravo TV
+driver: necx
+buttons:
+    POWER:  0xdf1c
+    UP:     0xdf1a
+    DOWN:   0xdf48
+    LEFT:   0xdf47
+    RIGHT:  0xdf07
+    SELECT: 0xdf06
+    BACK:   0xdf0a
+    MENU:   0xdf18
+    ZERO:   0xdf0c
+    ONE:    0xdf54
+    TWO:    0xdf16
+    THREE:  0xdf15
+    FOUR:   0xdf50
+    FIVE:   0xdf12
+    SIX:    0xdf11
+    SEVEN:  0xdf4c
+    EIGHT:  0xdf0e
+    NINE:   0xdf0d
+    MUTE:   0xdf08
+    VOLUP:  0xdf4b
+    VOLDN:  0xdf4f
+    CHUP:   0xdf09
+    CHDN:   0xdf05
+

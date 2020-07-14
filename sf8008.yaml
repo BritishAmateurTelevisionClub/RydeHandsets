@@ -1,0 +1,23 @@
+---
+name: Octagon SF8008
+driver: nec
+buttons:
+    POWER:  0x514
+    UP:     0x503
+    DOWN:   0x502
+    LEFT:   0x50e
+    RIGHT:  0x51a
+    SELECT: 0x507
+    BACK:   0x513
+    MENU:   0x500
+    ZERO:   0x512
+    ONE:    0x509
+    TWO:    0x51d
+    THREE:  0x51f
+    FOUR:   0x50d
+    FIVE:   0x519
+    SIX:    0x51b
+    SEVEN:  0x511
+    EIGHT:  0x515
+    NINE:   0x517
+

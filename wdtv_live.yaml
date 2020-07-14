@@ -1,0 +1,25 @@
+---
+name: WDTV Live
+driver: necx
+buttons:
+    POWER:  0x847912
+    UP:     0x847905
+    DOWN:   0x847900
+    LEFT:   0x847907
+    RIGHT:  0x847909
+    SELECT: 0x847908
+    BACK:   0x84791b
+    MENU:   0x84791a
+    MENU:   0x847903
+    ZERO:   0x847911
+    ONE:    0x847918
+    TWO:    0x847919
+    THREE:  0x84790e
+    FOUR:   0x84791c
+    FIVE:   0x84791d
+    SIX:    0x84795e
+    SEVEN:  0x84795d
+    EIGHT:  0x84795c
+    NINE:   0x84795f
+    MUTE:   0x84794d
+

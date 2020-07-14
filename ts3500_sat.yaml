@@ -1,0 +1,26 @@
+---
+name: TS-3500 Sat RX
+driver: nec
+buttons:
+    POWER:  0x5f
+    UP:     0x59
+    DOWN:   0x51
+    LEFT:   0x56
+    RIGHT:  0x14
+    SELECT: 0x55
+    BACK:   0x1a
+    MENU:   0x5a
+    ZERO:   0x44
+    ONE:    0x53
+    TWO:    0x50
+    THREE:  0x12
+    FOUR:   0x4f
+    FIVE:   0x4c
+    SIX:    0x0e
+    SEVEN:  0x4b
+    EIGHT:  0x48
+    NINE:   0x0a
+    MUTE:   0x4e
+    VOLUP:  0x40
+    VOLDN:  0x5d
+
