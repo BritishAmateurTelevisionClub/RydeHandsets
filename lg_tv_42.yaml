@@ -2,10 +2,6 @@
 name: LG 42 TV
 driver: nec
 buttons:
-    repeatFirst: 200
-    repeatDelay: 100
-    repeatReset: 400
-    handsets:
     POWER:  0x408
     UP:     0x440
     DOWN:   0x441
@@ -15,6 +11,11 @@ buttons:
     BACK:   0x428
     BACK:   0x45b
     MENU:   0x443
+    MUTE:   0x409
+    VOL+:   0x402
+    VOL-:   0x403
+    CHAN+:  0x400
+    CHAN-:  0x401
     ZERO:   0x410
     ONE:    0x411
     TWO:    0x412
@@ -25,9 +26,4 @@ buttons:
     SEVEN:  0x417
     EIGHT:  0x418
     NINE:   0x419
-    MUTE:   0x409
-    VOLUP:  0x402
-    VOLDN:  0x403
-    CHUP:   0x400
-    CHDN:   0x401
 
