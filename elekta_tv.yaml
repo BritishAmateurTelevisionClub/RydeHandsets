@@ -10,6 +10,11 @@ buttons:
     SELECT: 0xdf06
     BACK:   0xdf0a
     MENU:   0xdf18
+    MUTE:   0xdf08
+    VOL+:   0xdf4b
+    VOL-:   0xdf4f
+    CHAN+:  0xdf09
+    CHAN-:  0xdf05
     ZERO:   0xdf0c
     ONE:    0xdf54
     TWO:    0xdf16
@@ -20,9 +25,4 @@ buttons:
     SEVEN:  0xdf4c
     EIGHT:  0xdf0e
     NINE:   0xdf0d
-    MUTE:   0xdf08
-    VOLUP:  0xdf4b
-    VOLDN:  0xdf4f
-    CHUP:   0xdf09
-    CHDN:   0xdf05
 

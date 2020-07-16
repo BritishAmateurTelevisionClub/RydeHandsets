@@ -11,6 +11,11 @@ buttons:
     BACK:   0x7072d
     BACK:   0x70758
     MENU:   0x7071d
+    MUTE:   0x7070f
+    VOL+:   0x70707
+    VOL-:   0x70706
+    CHAN+:  0x70712
+    CHAN-:  0x70710
     ZERO:   0x70711
     ONE:    0x70704
     TWO:    0x70705
@@ -21,9 +26,4 @@ buttons:
     SEVEN:  0x7070c
     EIGHT:  0x7070d
     NINE:   0x7070e
-    MUTE:   0x7070f
-    VOLUP:  0x70707
-    VOLDN:  0x70706
-    CHUP:   0x70712
-    CHDN:   0x70710
 
