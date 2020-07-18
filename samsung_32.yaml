@@ -1,6 +1,6 @@
 ---
 name: Samsung 32 TV
-driver: necx
+driver: nec
 buttons:
     POWER:  0x70702
     UP:     0x70760

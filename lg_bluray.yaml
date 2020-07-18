@@ -1,6 +1,6 @@
 ---
 name: LG BluRay
-driver: necx nec
+driver: nec
 buttons:
     POWER:  0x2d2d30
     UP:     0x2d2d47
