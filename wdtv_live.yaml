@@ -1,6 +1,6 @@
 ---
 name: WDTV Live
-driver: necx
+driver: nec
 buttons:
     POWER:  0x847912
     UP:     0x847905

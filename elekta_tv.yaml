@@ -1,6 +1,6 @@
 ---
 name: Elekta Bravo TV
-driver: necx
+driver: nec
 buttons:
     POWER:  0xdf1c
     UP:     0xdf1a
