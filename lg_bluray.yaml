@@ -9,7 +9,6 @@ buttons:
     RIGHT:  0x2d2d5a
     SELECT: 0x2d2d58
     BACK:   0x2d2d45
-    MENU:   0x2d2d3a
     MENU:   0x2d2d4b
     MUTE:   0x409
     VOL+:   0x402

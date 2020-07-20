@@ -9,8 +9,6 @@ buttons:
     RIGHT:  0x847909
     SELECT: 0x847908
     BACK:   0x84791b
-    MENU:   0x84791a
-    MENU:   0x847903
     MENU:   0x847941
     ZERO:   0x847911
     ONE:    0x847918
