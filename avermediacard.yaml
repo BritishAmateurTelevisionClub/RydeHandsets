@@ -1,0 +1,24 @@
+---
+name: AVerMedia PC Tuner Card
+driver: nec
+buttons:
+    POWER:  0x200
+    UP:     0x303
+    DOWN:   0x302
+    LEFT:   0x21e
+    RIGHT:  0x21f
+    SELECT: 0x20c
+    BACK:   0x217
+    MENU:   0x215
+    MUTE:   0x214
+    ZERO:   0x211
+    ONE:    0x205
+    TWO:    0x206
+    THREE:  0x207
+    FOUR:   0x209
+    FIVE:   0x20a
+    SIX:    0x20b
+    SEVEN:  0x20d
+    EIGHT:  0x20e
+    NINE:   0x20f
+
