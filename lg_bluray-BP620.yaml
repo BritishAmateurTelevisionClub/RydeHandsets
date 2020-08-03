@@ -1,0 +1,28 @@
+---
+name: LG BluRay BP620
+driver: nec
+buttons:
+    POWER:  0x2d2d30
+    UP:     0x2d2d47
+    DOWN:   0x2d2d40
+    LEFT:   0x2d2d59
+    RIGHT:  0x2d2d5a
+    SELECT: 0x2d2d58
+    BACK:   0x2d2d45
+    MENU:   0x2d2d4b
+    MUTE:   0x409
+    VOL+:   0x402
+    VOL-:   0x403
+    CHAN+:  0x400
+    CHAN-:  0x401
+    ZERO:   0x2d2d44
+    ONE:    0x2d2d3b
+    TWO:    0x2d2d3c
+    THREE:  0x2d2d3d
+    FOUR:   0x2d2d3e
+    FIVE:   0x2d2d3f
+    SIX:    0x2d2d40
+    SEVEN:  0x2d2d41
+    EIGHT:  0x2d2d42
+    NINE:   0x2d2d43
+

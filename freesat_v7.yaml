@@ -1,0 +1,28 @@
+---
+name: Freesat V7 Combo
+driver: nec
+buttons:
+    POWER:  0x311
+    UP:     0x347
+    DOWN:   0x34b
+    LEFT:   0x357
+    RIGHT:  0x353
+    SELECT: 0x304
+    BACK:   0x352
+    MENU:   0x343
+    MUTE:   0x310
+    VOL+:   0x308
+    VOL-:   0x35e
+    CHAN+:  0x342
+    CHAN-:  0x34f
+    ZERO:   0x31e
+    ONE:    0x31d
+    TWO:    0x31c
+    THREE:  0x346
+    FOUR:   0x315
+    FIVE:   0x314
+    SIX:    0x345
+    SEVEN:  0x300
+    EIGHT:  0x31f
+    NINE:   0x31b
+
