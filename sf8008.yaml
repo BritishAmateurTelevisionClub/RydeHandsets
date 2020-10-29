@@ -10,6 +10,11 @@ buttons:
     SELECT: 0x507
     BACK:   0x513
     MENU:   0x500
+    MUTE:   0x51c
+    VOL+:   0x541
+    VOL-:   0x542
+    CHAN+:  0x5ef
+    CHAN-:  0x5ee
     ZERO:   0x512
     ONE:    0x509
     TWO:    0x51d
