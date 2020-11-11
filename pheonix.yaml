@@ -1,0 +1,28 @@
+---
+name: Phoenix Remote
+driver: nec
+
+buttons:
+    POWER:  0x15f
+    UP:     0x118
+    DOWN:   0x146
+    LEFT:   0x141
+    RIGHT:  0x149
+    SELECT: 0x145
+    BACK:   0x142
+    MENU:   0x11c
+    MUTE:   0x157
+    VOL+:   0x11e
+    VOL-:   0x11d
+    CHAN+:  0x116
+    CHAN-:  0x115
+    ZERO:   0x11b
+    ONE:    0x156
+    TWO:    0x15a
+    THREE:  0x15e
+    FOUR:   0x155
+    FIVE:   0x159
+    SIX:    0x15d
+    SEVEN:  0x154
+    EIGHT:  0x158
+    NINE:   0x15c
