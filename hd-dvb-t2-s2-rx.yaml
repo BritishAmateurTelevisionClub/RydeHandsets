@@ -10,6 +10,7 @@ buttons:
     SELECT: 0x115
     BACK:   0x116
     MENU:   0x15b
+    MUTE:   0x112
     ZERO:   0x113
     ONE:    0x100
     TWO:    0x107
