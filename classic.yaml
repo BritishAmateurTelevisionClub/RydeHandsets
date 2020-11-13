@@ -1,0 +1,28 @@
+---
+name: Classic Remote
+driver: rc-5
+buttons:
+    POWER:  0x80C
+    UP:     0x812
+    DOWN:   0x813
+    LEFT:   0x815
+    RIGHT:  0x816
+    SELECT: 0x814
+    BACK:   0x80A
+    MENU:   0x835
+    MUTE:   0x80D
+    VOL+:   0x810
+    VOL-:   0x811
+    CHAN+:  0x820
+    CHAN-:  0x821
+    ZERO:   0x800
+    ONE:    0x801
+    TWO:    0x802
+    THREE:  0x803
+    FOUR:   0x804
+    FIVE:   0x805
+    SIX:    0x806
+    SEVEN:  0x807
+    EIGHT:  0x808
+    NINE:   0x809
+
