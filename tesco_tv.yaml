@@ -1,0 +1,26 @@
+---
+name: Tesco TV
+driver: nec
+buttons:
+    POWER:  0x7f0a
+    UP:     0x7f5e
+    DOWN:   0x7f56
+    LEFT:   0x7f5b
+    RIGHT:  0x7f58
+    SELECT: 0x7f5a
+    BACK:   0x7f4e
+    MENU:   0x7f57
+    MUTE:   0x7f50
+    VOL+:   0x7f1e
+    VOL-:   0x7f5f
+    ZERO:   0x7f1a
+    ONE:    0x7f0e
+    TWO:    0x7f06
+    THREE:  0x7f0f
+    FOUR:   0x7f12
+    FIVE:   0x7f07
+    SIX:    0x7f13
+    SEVEN:  0x7f16
+    EIGHT:  0x7f02
+    NINE:   0x7f17
+
