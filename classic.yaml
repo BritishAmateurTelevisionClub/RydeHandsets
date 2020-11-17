@@ -1,5 +1,5 @@
 ---
-name: Classic Remote
+name: CLASSIC
 driver: rc-5
 buttons:
     POWER:  0x80C

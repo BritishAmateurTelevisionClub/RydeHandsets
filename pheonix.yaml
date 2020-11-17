@@ -1,7 +1,6 @@
 ---
 name: Phoenix Remote
 driver: nec
-
 buttons:
     POWER:  0x15f
     UP:     0x118
@@ -26,3 +25,4 @@ buttons:
     SEVEN:  0x154
     EIGHT:  0x158
     NINE:   0x15c
+

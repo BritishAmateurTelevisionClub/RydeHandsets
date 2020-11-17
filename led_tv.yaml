@@ -1,0 +1,26 @@
+---
+name: Anonymous LED TV
+driver: nec
+buttons:
+    POWER:  0xbf00
+    UP:     0xbf13
+    DOWN:   0xbf14
+    LEFT:   0xbf11
+    RIGHT:  0xbf12
+    SELECT: 0xbf10
+    BACK:   0xbf4b
+    MENU:   0xbf16
+    MUTE:   0xbf01
+    VOL+:   0xbf48
+    VOL-:   0xbf49
+    ZERO:   0xbf0c
+    ONE:    0xbf02
+    TWO:    0xbf03
+    THREE:  0xbf04
+    FOUR:   0xbf05
+    FIVE:   0xbf06
+    SIX:    0xbf07
+    SEVEN:  0xbf08
+    EIGHT:  0xbf09
+    NINE:   0xbf0a
+
