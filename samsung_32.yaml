@@ -10,7 +10,7 @@ buttons:
     SELECT: 0x70768
     BACK:   0x7072d
     BACK:   0x70758
-    MENU:   0x7071d
+    MENU:   0x7071a
     MUTE:   0x7070f
     VOL+:   0x70707
     VOL-:   0x70706
