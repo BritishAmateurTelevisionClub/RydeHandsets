@@ -1,0 +1,28 @@
+---
+name: Fortec Star
+driver: nec
+buttons:
+    POWER:  0x1fddc
+    UP:     0x1fdda
+    DOWN:   0x1fdd2  #CH+
+    LEFT:   0x1fd99  #CH-
+    RIGHT:  0x1fdc1
+    SELECT: 0x1fdce
+    BACK:   0x1fd5c
+    MENU:   0x1fd95
+    MUTE:   0x1fd9c
+    VOL+:   #Right
+    VOL-:   # Left
+    CHAN+:  0x1fddd
+    CHAN-:  0x1f8dc
+    ZERO:   0x1f8d7
+    ONE:    0x1fd92
+    TWO:    0x1fd93
+    THREE:  0x1fdcc
+    FOUR:   0x1fd8e
+    FIVE:   0x1fd8f
+    SIX:    0x1fdc8
+    SEVEN:  0x1fd8a
+    EIGHT:  0x1fd8b
+    NINE:   0x1fdc4
+

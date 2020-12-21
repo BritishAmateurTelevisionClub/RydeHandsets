@@ -1,0 +1,27 @@
+---
+name: cmtronic
+driver: nec
+buttons:
+    POWER:  0x7f18
+    UP:     0x7f02
+    DOWN:   0x7f0a
+    LEFT:   0x7f07
+    RIGHT:  0x7f05
+    SELECT: 0x7f06
+    BACK:   0x7f03
+    MENU:   0x7f1d
+    MUTE:   0x7f00
+    VOL+:   0x7f1c
+    VOL-:   0x7f0b
+    CHAN+:  0x7f1f
+    CHAN-:  0x7f01
+    ZERO:   0x7f0e
+    ONE:    0x7f17
+    TWO:    0x7f16
+    THREE:  0x7f15
+    FOUR:   0x7f14
+    FIVE:   0x7f13
+    SIX:    0x7f12
+    SEVEN:  0x7f11
+    EIGHT:  0x7f10
+    NINE:   0x7f0f
