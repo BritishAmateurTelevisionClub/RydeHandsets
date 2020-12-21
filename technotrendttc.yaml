@@ -1,0 +1,27 @@
+---
+name: TechnoTrend TT-connect
+driver: rc-5
+buttons:
+    POWER:  0x1501
+    UP:     0x150d
+    DOWN:   0x1511
+    LEFT:   0x150e
+    RIGHT:  0x1510
+    SELECT: 0x150f
+    BACK:   0x1513
+    MENU:   0x1519
+    MUTE:   0x1518
+    VOL+:   0x1525
+    VOL-:   0x1526
+    CHAN+:  0x1523
+    CHAN-:  0x1524
+    ZERO:   0x150c
+    ONE:    0x1503
+    TWO:    0x1504
+    THREE:  0x1505
+    FOUR:   0x1506
+    FIVE:   0x1507
+    SIX:    0x1508
+    SEVEN:  0x1509
+    EIGHT:  0x150a
+    NINE:   0x150b
