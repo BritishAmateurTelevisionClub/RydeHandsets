@@ -21,4 +21,5 @@ buttons:
     SEVEN:  0x108
     EIGHT:  0x10f
     NINE:   0x10e
+    OSDTOG: 0x14e
 

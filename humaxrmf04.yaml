@@ -1,0 +1,28 @@
+---
+name: Humax RM-F04 (PVR)
+driver: nec
+buttons:
+    POWER:  0x1000
+    UP:     0x1011
+    DOWN:   0x1015
+    LEFT:   0x1012
+    RIGHT:  0x1014
+    SELECT: 0x1013
+    BACK:   0x1041
+    MENU:   0x100e
+    MUTE:   0x1018
+    VOL+:   0x101f
+    VOL-:   0x1040
+    CHAN+:  0x1010
+    CHAN-:  0x100f
+    ZERO:   0x100c
+    ONE:    0x1003
+    TWO:    0x1004
+    THREE:  0x1005
+    FOUR:   0x1006
+    FIVE:   0x1007
+    SIX:    0x1008
+    SEVEN:  0x1009
+    EIGHT:  0x100a
+    NINE:   0x100b
+

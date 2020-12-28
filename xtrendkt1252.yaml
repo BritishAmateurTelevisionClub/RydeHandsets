@@ -1,0 +1,27 @@
+---
+name: Xtrend KT1252-XHY (TV)
+driver: nec
+buttons:
+    POWER:  0x0a
+    UP:     0x10
+    DOWN:   0x16
+    LEFT:   0x12
+    RIGHT:  0x14
+    SELECT: 0x13
+    BACK:   0x1e
+    MENU:   0x0f
+    MUTE:   0x0b
+    VOL+:   0x1d
+    VOL-:   0x20
+    CHAN+:  0x1f
+    CHAN-:  0x22
+    ZERO:   0x00
+    ONE:    0x01
+    TWO:    0x02
+    THREE:  0x03
+    FOUR:   0x04
+    FIVE:   0x05
+    SIX:    0x06
+    SEVEN:  0x07
+    EIGHT:  0x08
+    NINE:   0x09
