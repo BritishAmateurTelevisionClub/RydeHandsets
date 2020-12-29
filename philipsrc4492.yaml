@@ -1,0 +1,28 @@
+---
+name: Philips RC 4492/01B (TV)
+driver: rc-6
+buttons:
+    POWER:  0x0c
+    UP:     0x58
+    DOWN:   0x59
+    LEFT:   0x5a
+    RIGHT:  0x5b
+    SELECT: 0x5c
+    BACK:   0xa
+    MENU:   0x54
+    MUTE:   0xd
+    VOL+:   0x10
+    VOL-:   0x11
+    CHAN+:  0x20
+    CHAN-:  0x21
+    ZERO:   0x00
+    ONE:    0x01
+    TWO:    0x02
+    THREE:  0x03
+    FOUR:   0x04
+    FIVE:   0x05
+    SIX:    0x06
+    SEVEN:  0x07
+    EIGHT:  0x08
+    NINE:   0x09
+
