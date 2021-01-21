@@ -1,0 +1,29 @@
+---
+name: streamzap
+driver: rc-5-sz
+buttons:
+    POWER:  0x2894
+    UP:     0x28a1
+    DOWN:   0x28a8
+    LEFT:   0x28a2
+    RIGHT:  0x28a7
+    SELECT: 0x28a4
+    BACK:   0x28ad
+    MENU:   0x28ab
+    MUTE:   0x2897
+    VOL+:   0x289b
+    VOL-:   0x289e
+    CHAN+:  0x2898
+    CHAN-:  0x289d
+    ZERO:   0x2880
+    ONE:    0x2883
+    TWO:    0x2885
+    THREE:  0x2886
+    FOUR:   0x2889
+    FIVE:   0x288a
+    SIX:    0x288c
+    SEVEN:  0x288f
+    EIGHT:  0x2891
+    NINE:   0x2892
+    OSDTOG: 0x28b3
+
