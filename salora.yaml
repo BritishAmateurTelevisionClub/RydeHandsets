@@ -1,0 +1,28 @@
+---
+name: Salora
+driver: rc-5
+buttons:
+    POWER:  0x10c
+    UP:     0x114
+    DOWN:   0x113
+    LEFT:   0x115
+    RIGHT:  0x116
+    SELECT: 0x135
+    BACK:   0x10a
+    MENU:   0x12b
+    MUTE:   0c10d
+    VOL+:   0x110
+    VOL-:   0x111
+    CHAN+:  0x120
+    CHAN-:  0x121
+    ZERO:   0x100
+    ONE:    0x101
+    TWO:    0x102
+    THREE:  0x103
+    FOUR:   0x104
+    FIVE:   0x105
+    SIX:    0x106
+    SEVEN:  0x107
+    EIGHT:  0x108
+    NINE:   0x109
+
