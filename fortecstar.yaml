@@ -8,7 +8,7 @@ buttons:
     LEFT:   0x1fd99  #CH-
     RIGHT:  0x1fdc1
     SELECT: 0x1fdce
-    BACK:   0x1fd5c
+    BACK:   0x1fdc5
     MENU:   0x1fd95
     MUTE:   0x1fd9c
     VOL+:   #Right
