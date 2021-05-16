@@ -1,0 +1,29 @@
+---
+name: Sky 1
+driver: rc-6
+buttons:
+    POWER:  0xc0c
+    UP:     0xc58
+    DOWN:   0xc59
+    LEFT:   0xc5a
+    RIGHT:  0xc5b
+    SELECT: 0xc5c
+    BACK:   0xc83
+    MENU:   0xc80
+    MUTE:   0x117
+    VOL+:   0x114
+    VOL-:   0x115
+    CHAN+:  0xc20
+    CHAN-:  0xc21
+    ZERO:   0xc00
+    ONE:    0xc01
+    TWO:    0xc02
+    THREE:  0xc03
+    FOUR:   0xc04
+    FIVE:   0xc05
+    SIX:    0xc06
+    SEVEN:  0xc07
+    EIGHT:  0xc08
+    NINE:   0xc09
+    OSDTOG: 0xccb
+
