@@ -1,0 +1,29 @@
+---
+name: Scott DVD Player
+driver: nec
+buttons:
+    POWER:  0xdf0f
+    UP:     0xdf0c
+    DOWN:   0xdf4f
+    LEFT:   0xdf19
+    RIGHT:  0xdf4c
+    SELECT: 0xdf05
+    BACK:   0xdf4b
+    MENU:   0xdf42
+    MUTE:   0xdf09
+    VOL+:   0xdf44
+    VOL-:   0xdf43
+    CHAN+:  0xdf06
+    CHAN-:  0xdf1c
+    ZERO:   0xdf0e
+    ONE:    0xdf53
+    TWO:    0xdf0b
+    THREE:  0xdf1e
+    FOUR:   0xdf03
+    FIVE:   0xdf51
+    SIX:    0xdf04
+    SEVEN:  0xdf54
+    EIGHT:  0xdf01
+    NINE:   0xdf1b
+    OSDTOG: 0xdf41
+
