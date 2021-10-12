@@ -1,0 +1,29 @@
+---
+name: Strong SRT 5434
+driver: nec
+buttons:
+    POWER:  0x159
+    UP:     0x106
+    DOWN:   0x116
+    LEFT:   0x15A
+    RIGHT:  0x11b
+    SELECT: 0x11a
+    BACK:   0x105
+    MENU:   0x145
+    MUTE:   0x119
+    VOL+:   0x10e
+    VOL-:   0x112
+    CHAN+:  0x11e
+    CHAN-:  0x11d
+    ZERO:   0x10f
+    ONE:    0x152
+    TWO:    0x150
+    THREE:  0x110
+    FOUR:   0x156
+    FIVE:   0x154
+    SIX:    0x114
+    SEVEN:  0x14e
+    EIGHT:  0x14c
+    NINE:   0x10c
+    OSDTOG: 0x115
+
