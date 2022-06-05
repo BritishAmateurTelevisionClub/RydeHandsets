@@ -1,0 +1,29 @@
+---
+name: K0QIT
+driver: nec
+buttons:
+    POWER:  0x859
+    UP:     0x806
+    DOWN:   0x816
+    LEFT:   0x83a
+    RIGHT:  0x81b
+    SELECT: 0x81a
+    BACK:   0x807
+    MENU:   0x845
+    MUTE:   0x819
+    VOL+:   0x866
+    VOL-:   0x867
+    CHAN+:  0x813
+    CHAN-:  0x817
+    ZERO:   0x80f
+    ONE:    0x852
+    TWO:    0x850
+    THREE:  0x810
+    FOUR:   0x856
+    FIVE:   0x854
+    SIX:    0x814
+    SEVEN:  0x84e
+    EIGHT:  0x84c
+    NINE:   0x80c
+    OSDTOG: 0x84a
+
