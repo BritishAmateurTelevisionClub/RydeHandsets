@@ -13,7 +13,7 @@ buttons:
     MENU:   0x7071a
     MUTE:   0x7070f
     VOL+:   0x70707
-    VOL-:   0x70706
+    VOL-:   0x7070b
     CHAN+:  0x70712
     CHAN-:  0x70710
     ZERO:   0x70711
