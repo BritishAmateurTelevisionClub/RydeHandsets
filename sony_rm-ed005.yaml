@@ -1,0 +1,28 @@
+---
+name: Sony RM-ED005
+driver: sony
+buttons:
+    POWER:  0x10015
+    UP:     0x10074
+    DOWN:   0x10075
+    LEFT:   0x10034
+    RIGHT:  0x10033
+    SELECT: 0x10065
+    BACK:   0x970023
+    MENU:   0x10060
+    MUTE:   0x10014
+    VOL+:   0x10012
+    VOL-:   0x10013
+    CHAN+:  0x10010
+    CHAN-:  0x10011
+    ZERO:   0x0009
+    ONE:    0x0000
+    TWO:    0x0001
+    THREE:  0x0002
+    FOUR:   0x0003
+    FIVE:   0x0004
+    SIX:    0x0005
+    SEVEN:  0x0006
+    EIGHT:  0x0007
+    NINE:   0x0008
+    OSDTOG: 0x1003f
