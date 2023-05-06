@@ -1,0 +1,28 @@
+---
+name: Sagem STB2
+driver: nec
+buttons:
+    POWER:  0x860e12
+    UP:     0x860e0b
+    DOWN:   0x860e0c
+    LEFT:   0x860e1b
+    RIGHT:  0x860e1c
+    SELECT: 0x860e15
+    BACK:   0x860e14
+    MENU:   0x860e11
+    MUTE:   0x860e1f
+    VOL+:   0x860e0d
+    VOL-:   0x860e0e
+    CHAN+:  0x860e10
+    CHAN-:  0x860e1a
+    ZERO:   0x860e00
+    ONE:    0x860e01
+    TWO:    0x860e02
+    THREE:  0x860e03
+    FOUR:   0x860e04
+    FIVE:   0x860e05
+    SIX:    0x860e06
+    SEVEN:  0x860e07
+    EIGHT:  0x860e08
+    NINE:   0x860e09
+    OSDTOG: 0x860e29
