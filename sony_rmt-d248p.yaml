@@ -1,0 +1,28 @@
+---
+name: Sony RMT-D248P
+driver: sony
+buttons:
+    POWER:  0x1afa15
+    UP:     0x1afa79
+    DOWN:   0x1afa7a
+    LEFT:   0x1afa7b
+    RIGHT:  0x1afa7c
+    SELECT: 0x1afa0b
+    BACK:   0x1afa0e
+    MENU:   0x1afa1b
+    MUTE:   0x1afa2b
+    VOL+:   0x10012
+    VOL-:   0x10013
+    CHAN+:  0x1afa13
+    CHAN-:  0x1afa14
+    ZERO:   0x1afa09
+    ONE:    0x1afa00
+    TWO:    0x1afa01
+    THREE:  0x1afa02
+    FOUR:   0x1afa03
+    FIVE:   0x1afa04
+    SIX:    0x1afa05
+    SEVEN:  0x1afa06
+    EIGHT:  0x1afa07
+    NINE:   0x1afa08
+    OSDTOG: 0x1a0b15
